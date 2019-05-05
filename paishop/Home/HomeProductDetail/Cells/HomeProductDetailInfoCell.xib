@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="61" id="KGk-i7-Jjw" customClass="HomeProductDetailInfoCell" customModule="paishop" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="61"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="375" height="60.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Q4S-eR-2sl">
+                        <rect key="frame" x="186.5" y="16.5" width="156.5" height="20"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" spacing="3" translatesAutoresizingMaskIntoConstraints="NO" id="aFx-tb-oSq">
+                                <rect key="frame" x="0.0" y="0.0" width="41.5" height="20"/>
+                                <subviews>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="home_list_eye.png" translatesAutoresizingMaskIntoConstraints="NO" id="zSq-4F-neL">
+                                        <rect key="frame" x="0.0" y="0.0" width="20" height="20"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="20" id="AC7-c7-EdB"/>
+                                            <constraint firstAttribute="width" constant="20" id="oHf-8Z-v7n"/>
+                                        </constraints>
+                                    </imageView>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="56" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Z1x-di-mJS">
+                                        <rect key="frame" x="23" y="0.0" width="18.5" height="20"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                                        <color key="textColor" red="0.57647058819999997" green="0.57647058819999997" blue="0.57647058819999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                            </stackView>
+                            <stackView opaque="NO" contentMode="scaleToFill" spacing="3" translatesAutoresizingMaskIntoConstraints="NO" id="qlR-Ri-NtA">
+                                <rect key="frame" x="57.5" y="0.0" width="41.5" height="20"/>
+                                <subviews>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="home_list_comment.png" translatesAutoresizingMaskIntoConstraints="NO" id="3Mc-mz-dPh">
+                                        <rect key="frame" x="0.0" y="0.0" width="20" height="20"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="20" id="ciJ-KR-oae"/>
+                                            <constraint firstAttribute="width" constant="20" id="gO0-Wv-Cee"/>
+                                        </constraints>
+                                    </imageView>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="56" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="A5D-h3-EuG">
+                                        <rect key="frame" x="23" y="0.0" width="18.5" height="20"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                                        <color key="textColor" red="0.57647058819999997" green="0.57647058819999997" blue="0.57647058819999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                            </stackView>
+                            <stackView opaque="NO" contentMode="scaleToFill" spacing="3" translatesAutoresizingMaskIntoConstraints="NO" id="uN5-u9-MpD">
+                                <rect key="frame" x="115" y="0.0" width="41.5" height="20"/>
+                                <subviews>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="home_list_love.png" translatesAutoresizingMaskIntoConstraints="NO" id="lB4-e2-5l2">
+                                        <rect key="frame" x="0.0" y="0.0" width="20" height="20"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="20" id="nl3-8W-x4V"/>
+                                            <constraint firstAttribute="width" constant="20" id="xiT-up-cZ2"/>
+                                        </constraints>
+                                    </imageView>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="56" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TZy-8k-Y7e">
+                                        <rect key="frame" x="23" y="0.0" width="18.5" height="20"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                                        <color key="textColor" red="0.57647058819999997" green="0.57647058819999997" blue="0.57647058819999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                            </stackView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="aFx-tb-oSq" firstAttribute="centerY" secondItem="Q4S-eR-2sl" secondAttribute="centerY" id="RwJ-ns-ID5"/>
+                            <constraint firstAttribute="height" secondItem="uN5-u9-MpD" secondAttribute="height" id="SQ5-Oq-F4Y"/>
+                            <constraint firstAttribute="trailing" secondItem="uN5-u9-MpD" secondAttribute="trailing" id="YV3-jT-uBR"/>
+                            <constraint firstItem="uN5-u9-MpD" firstAttribute="centerY" secondItem="Q4S-eR-2sl" secondAttribute="centerY" id="bS2-3d-H30"/>
+                            <constraint firstItem="uN5-u9-MpD" firstAttribute="leading" secondItem="qlR-Ri-NtA" secondAttribute="trailing" constant="16" id="t6M-Fd-Ivi"/>
+                            <constraint firstItem="qlR-Ri-NtA" firstAttribute="leading" secondItem="aFx-tb-oSq" secondAttribute="trailing" constant="16" id="vct-70-2PP"/>
+                            <constraint firstItem="qlR-Ri-NtA" firstAttribute="centerY" secondItem="Q4S-eR-2sl" secondAttribute="centerY" id="x5L-ag-2qA"/>
+                            <constraint firstItem="aFx-tb-oSq" firstAttribute="leading" secondItem="Q4S-eR-2sl" secondAttribute="leading" id="zSJ-6k-T35"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="Q4S-eR-2sl" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="16" id="ltk-gD-RgP"/>
+                    <constraint firstAttribute="trailing" secondItem="Q4S-eR-2sl" secondAttribute="trailing" constant="32" id="qKh-aj-25Z"/>
+                    <constraint firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="Q4S-eR-2sl" secondAttribute="bottom" constant="16" id="u47-1D-cwp"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="commentCountView" destination="qlR-Ri-NtA" id="UGE-AK-eSU"/>
+                <outlet property="commentsLabel" destination="A5D-h3-EuG" id="hLf-Lf-pLR"/>
+                <outlet property="likeCountView" destination="uN5-u9-MpD" id="xKW-6o-Uro"/>
+                <outlet property="likesImageView" destination="lB4-e2-5l2" id="55E-Bn-SuJ"/>
+                <outlet property="likesLabel" destination="TZy-8k-Y7e" id="tYi-g7-rUq"/>
+                <outlet property="viewsLabel" destination="Z1x-di-mJS" id="uNj-N0-uMT"/>
+            </connections>
+            <point key="canvasLocation" x="26.5" y="60.5"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="home_list_comment.png" width="31" height="31"/>
+        <image name="home_list_eye.png" width="37" height="20"/>
+        <image name="home_list_love.png" width="28" height="28"/>
+    </resources>
+</document>

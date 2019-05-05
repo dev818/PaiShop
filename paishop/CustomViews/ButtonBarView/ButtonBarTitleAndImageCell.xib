@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="gTV-IL-0wX" customClass="ButtonBarTitleAndImageCell" customModule="paishop" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="213" height="174"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="213" height="174"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="home_menu1.png" translatesAutoresizingMaskIntoConstraints="NO" id="ph2-6t-8S2" customClass="RoundImageView" customModule="paishop" customModuleProvider="target">
+                        <rect key="frame" x="55.5" y="24" width="102" height="102"/>
+                        <constraints>
+                            <constraint firstAttribute="width" secondItem="ph2-6t-8S2" secondAttribute="height" multiplier="1:1" id="aYN-3J-gUo"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6r7-3K-St6">
+                        <rect key="frame" x="90.5" y="133.5" width="33" height="16"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                        <variation key="heightClass=regular-widthClass=regular">
+                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        </variation>
+                    </label>
+                </subviews>
+            </view>
+            <constraints>
+                <constraint firstItem="ph2-6t-8S2" firstAttribute="centerY" secondItem="gTV-IL-0wX" secondAttribute="centerY" constant="-12" id="ROy-Fj-sgn"/>
+                <constraint firstItem="ph2-6t-8S2" firstAttribute="centerX" secondItem="gTV-IL-0wX" secondAttribute="centerX" id="SAj-aO-5nU"/>
+                <constraint firstItem="6r7-3K-St6" firstAttribute="top" secondItem="ph2-6t-8S2" secondAttribute="bottom" constant="8" id="agL-al-Q9j"/>
+                <constraint firstItem="ph2-6t-8S2" firstAttribute="height" secondItem="gTV-IL-0wX" secondAttribute="height" multiplier="0.6" constant="-2" id="g6e-Va-bd4">
+                    <variation key="heightClass=regular-widthClass=regular" constant="0.0"/>
+                </constraint>
+                <constraint firstItem="6r7-3K-St6" firstAttribute="centerX" secondItem="gTV-IL-0wX" secondAttribute="centerX" id="xHv-cO-wbX"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <size key="customSize" width="213" height="174"/>
+            <connections>
+                <outlet property="itemImage" destination="ph2-6t-8S2" id="P5y-oS-iaw"/>
+                <outlet property="itemImageHeightConstraint" destination="g6e-Va-bd4" id="a03-0k-lgF"/>
+                <outlet property="itemLabel" destination="6r7-3K-St6" id="FuB-d6-zX4"/>
+            </connections>
+            <point key="canvasLocation" x="108.5" y="126"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="home_menu1.png" width="90" height="90"/>
+    </resources>
+</document>

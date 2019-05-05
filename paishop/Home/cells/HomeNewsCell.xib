@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" rowHeight="120" id="KGk-i7-Jjw" customClass="HomeNewsCell" customModule="paishop" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="103"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="375" height="102.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Odg-gP-5fQ" customClass="RoundRectView" customModule="paishop" customModuleProvider="target">
+                        <rect key="frame" x="8" y="8" width="359" height="44"/>
+                        <subviews>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="plain" separatorStyle="none" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="OPd-bl-DqY">
+                                <rect key="frame" x="117" y="0.0" width="230" height="44"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="44" id="a3b-e5-aNk"/>
+                                </constraints>
+                            </tableView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ic_my_alert.png" translatesAutoresizingMaskIntoConstraints="NO" id="6Eg-GI-JFU">
+                                <rect key="frame" x="12" y="12" width="20" height="20"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="6Eg-GI-JFU" secondAttribute="height" multiplier="1:1" id="F5P-rT-vCC"/>
+                                    <constraint firstAttribute="height" constant="20" id="avX-ub-I6c"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="公告资讯 : " textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fiR-yU-IPd">
+                                <rect key="frame" x="40" y="14" width="69" height="17"/>
+                                <fontDescription key="fontDescription" type="system" weight="medium" pointSize="14"/>
+                                <color key="textColor" red="1" green="0.0" blue="0.28235294117647058" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="OPd-bl-DqY" secondAttribute="trailing" constant="12" id="10i-a1-nMn"/>
+                            <constraint firstItem="fiR-yU-IPd" firstAttribute="leading" secondItem="6Eg-GI-JFU" secondAttribute="trailing" constant="8" id="4Li-Nb-GeU"/>
+                            <constraint firstItem="6Eg-GI-JFU" firstAttribute="leading" secondItem="Odg-gP-5fQ" secondAttribute="leading" constant="12" id="4NA-wq-Oaf"/>
+                            <constraint firstAttribute="height" constant="44" id="JLp-Vk-tvH"/>
+                            <constraint firstItem="OPd-bl-DqY" firstAttribute="leading" secondItem="fiR-yU-IPd" secondAttribute="trailing" constant="8" id="Mel-4w-kFE"/>
+                            <constraint firstItem="OPd-bl-DqY" firstAttribute="top" secondItem="Odg-gP-5fQ" secondAttribute="top" id="PAR-0g-YMG"/>
+                            <constraint firstAttribute="bottom" secondItem="OPd-bl-DqY" secondAttribute="bottom" id="Y9B-VX-kka"/>
+                            <constraint firstItem="fiR-yU-IPd" firstAttribute="centerY" secondItem="Odg-gP-5fQ" secondAttribute="centerY" id="fJO-KT-BzD"/>
+                            <constraint firstItem="6Eg-GI-JFU" firstAttribute="centerY" secondItem="Odg-gP-5fQ" secondAttribute="centerY" id="jyE-kW-s0z"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="16"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+                <color key="backgroundColor" red="0.94901960780000005" green="0.94901960780000005" blue="0.94901960780000005" alpha="1" colorSpace="calibratedRGB"/>
+                <constraints>
+                    <constraint firstAttribute="trailing" secondItem="Odg-gP-5fQ" secondAttribute="trailing" constant="8" id="NFt-DN-MlC"/>
+                    <constraint firstItem="Odg-gP-5fQ" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="8" id="Tkh-Ob-zuG"/>
+                    <constraint firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="Odg-gP-5fQ" secondAttribute="bottom" constant="8" id="j5D-Cd-NTz"/>
+                    <constraint firstItem="Odg-gP-5fQ" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="8" id="qbd-b4-06P"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="tableView" destination="OPd-bl-DqY" id="Hy0-j3-WHE"/>
+            </connections>
+            <point key="canvasLocation" x="24.5" y="81.5"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="ic_my_alert.png" width="43" height="45"/>
+    </resources>
+</document>

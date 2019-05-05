@@ -1,0 +1,42 @@
+
+/* Class = "UIButton"; normalTitle = "取消"; ObjectID = "02G-aA-DEa"; */
+"02G-aA-DEa.normalTitle" = "取消";
+
+/* Class = "UIButton"; normalTitle = "确认"; ObjectID = "H8O-W3-WJs"; */
+"H8O-W3-WJs.normalTitle" = "确认";
+
+/* Class = "UILabel"; text = "地址:"; ObjectID = "L7I-Pb-hU0"; */
+"L7I-Pb-hU0.text" = "地址:";
+
+/* Class = "UILabel"; text = "User name"; ObjectID = "SYB-bq-clu"; */
+"SYB-bq-clu.text" = "User name";
+
+/* Class = "UILabel"; text = "昵称:"; ObjectID = "TcB-rh-OtY"; */
+"TcB-rh-OtY.text" = "昵称:";
+
+/* Class = "UILabel"; text = "您没有任何聊天记录"; ObjectID = "ZbH-I5-lmm"; */
+"ZbH-I5-lmm.text" = "您没有任何聊天记录";
+
+/* Class = "UILabel"; text = "address"; ObjectID = "auJ-6j-A9s"; */
+"auJ-6j-A9s.text" = "address";
+
+/* Class = "UILabel"; text = "introduction"; ObjectID = "g2c-G3-7Fr"; */
+"g2c-G3-7Fr.text" = "introduction";
+
+/* Class = "UISegmentedControl"; jus-Dw-Mbo.segmentTitles[0] = "聊天"; ObjectID = "jus-Dw-Mbo"; */
+"jus-Dw-Mbo.segmentTitles[0]" = "聊天";
+
+/* Class = "UISegmentedControl"; jus-Dw-Mbo.segmentTitles[1] = "直播\n"; ObjectID = "jus-Dw-Mbo"; */
+"jus-Dw-Mbo.segmentTitles[1]" = "直播\n";
+
+/* Class = "UILabel"; text = "43748234534578"; ObjectID = "k3s-Sq-q68"; */
+"k3s-Sq-q68.text" = "43748234534578";
+
+/* Class = "UILabel"; text = "手机号:"; ObjectID = "qYW-03-cNH"; */
+"qYW-03-cNH.text" = "手机号:";
+
+/* Class = "UILabel"; text = "介绍:"; ObjectID = "u08-pf-GYr"; */
+"u08-pf-GYr.text" = "介绍:";
+
+/* Class = "UILabel"; text = "添加"; ObjectID = "vkW-dF-I0q"; */
+"vkW-dF-I0q.text" = "添加";

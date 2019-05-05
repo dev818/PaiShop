@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="233" id="KGk-i7-Jjw" customClass="MyStoreProductPostCell" customModule="paishop" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="233"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="232.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="default_image.png" translatesAutoresizingMaskIntoConstraints="NO" id="r7Y-uq-tK9">
+                        <rect key="frame" x="0.0" y="8" width="320" height="200"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="200" id="p3z-Wz-B9q"/>
+                        </constraints>
+                    </imageView>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="TRc-Ze-xiO">
+                        <rect key="frame" x="284" y="16" width="28" height="28"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="28" id="Ude-6G-uVH"/>
+                            <constraint firstAttribute="width" secondItem="TRc-Ze-xiO" secondAttribute="height" multiplier="1:1" id="bzk-B1-Bnq"/>
+                        </constraints>
+                        <state key="normal" image="my_store_delete.png"/>
+                        <connections>
+                            <action selector="selectDelete:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="Fq6-70-H0S"/>
+                        </connections>
+                    </button>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="TRc-Ze-xiO" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="16" id="QK2-48-mWK"/>
+                    <constraint firstAttribute="trailing" secondItem="r7Y-uq-tK9" secondAttribute="trailing" id="TNE-4Z-f12"/>
+                    <constraint firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="r7Y-uq-tK9" secondAttribute="bottom" constant="8" id="TvP-uL-ef4"/>
+                    <constraint firstAttribute="trailing" secondItem="TRc-Ze-xiO" secondAttribute="trailing" constant="8" id="nJb-9r-yRw"/>
+                    <constraint firstItem="r7Y-uq-tK9" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="o0d-F3-3il"/>
+                    <constraint firstItem="r7Y-uq-tK9" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="8" id="yxS-I0-gjV"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="imageHeightConstraint" destination="p3z-Wz-B9q" id="Vah-w5-HEI"/>
+                <outlet property="postImageView" destination="r7Y-uq-tK9" id="NCD-8Q-aqG"/>
+            </connections>
+            <point key="canvasLocation" x="25" y="146.5"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="default_image.png" width="375" height="375"/>
+        <image name="my_store_delete.png" width="50" height="50"/>
+    </resources>
+</document>

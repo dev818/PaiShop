@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14313.18" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="bA3-MR-svG">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14283.14"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Navigation Controller-->
+        <scene sceneID="LfJ-eI-sWP">
+            <objects>
+                <navigationController navigationBarHidden="YES" id="bA3-MR-svG" sceneMemberID="viewController">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="rTe-UL-TnH">
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="uF6-QA-vt4" kind="relationship" relationship="rootViewController" id="d0A-eS-Owm"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="tXC-Rn-nZa" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-1754" y="-427"/>
+        </scene>
+        <!--Main TabVC-->
+        <scene sceneID="GYi-VV-WD3">
+            <objects>
+                <tabBarController id="uF6-QA-vt4" customClass="MainTabVC" customModule="paishop" customModuleProvider="target" sceneMemberID="viewController">
+                    <navigationItem key="navigationItem" id="zJy-c4-Zsh"/>
+                    <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="bvh-gu-LAc">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="49"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </tabBar>
+                </tabBarController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Ekh-8D-Tjb" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-974" y="-426"/>
+        </scene>
+        <!--Web ViewVC-->
+        <scene sceneID="KtP-VC-RCB">
+            <objects>
+                <viewController storyboardIdentifier="WebViewVC" id="ei3-xu-5VA" customClass="WebViewVC" customModule="paishop" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="lYF-Gk-HLy">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="vIT-Lb-ZUV" customClass="NavBar" customModule="paishop" customModuleProvider="target">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="64"/>
+                                <color key="backgroundColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="64" id="ypK-9o-Wyl"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="vIT-Lb-ZUV" firstAttribute="leading" secondItem="TRw-xU-Tey" secondAttribute="leading" id="OKA-Fl-cGJ"/>
+                            <constraint firstItem="vIT-Lb-ZUV" firstAttribute="top" secondItem="lYF-Gk-HLy" secondAttribute="top" id="rDs-au-1BB"/>
+                            <constraint firstItem="vIT-Lb-ZUV" firstAttribute="trailing" secondItem="TRw-xU-Tey" secondAttribute="trailing" id="tIm-JO-gO3"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="TRw-xU-Tey"/>
+                    </view>
+                    <connections>
+                        <outlet property="navBar" destination="vIT-Lb-ZUV" id="lMy-6r-Xl4"/>
+                        <outlet property="navBarHeightConstraint" destination="ypK-9o-Wyl" id="Pg9-Vv-tya"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="wQx-Kd-caY" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-975" y="293"/>
+        </scene>
+    </scenes>
+</document>

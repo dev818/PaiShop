@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="137" id="kes-OL-Myi" customClass="MyRecmIncomeDetailCell" customModule="paishop" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="415" height="137"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="kes-OL-Myi" id="z5X-x3-bUA">
+                <rect key="frame" x="0.0" y="0.0" width="415" height="136.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="igC-yu-VMS">
+                        <rect key="frame" x="0.0" y="0.0" width="415" height="93"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="2018-07-07 23:5:25" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dkx-VQ-Afa">
+                                <rect key="frame" x="300" y="65" width="107" height="14"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="11"/>
+                                <color key="textColor" red="0.26051741839999998" green="0.2605243921" blue="0.260520637" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="my_recm_profile1.png" translatesAutoresizingMaskIntoConstraints="NO" id="JsV-7p-X9d">
+                                <rect key="frame" x="19" y="11.5" width="60" height="60"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="60" id="Z4H-1G-PZ6"/>
+                                    <constraint firstAttribute="width" constant="60" id="nrp-E9-h0M"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="张三" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="tyl-iK-Gm2">
+                                <rect key="frame" x="39.5" y="77" width="20.5" height="12"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="“熊猫人”用户扫描“外国友人”的二维码成为二级成员您获得推荐奖金300π" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="2IR-4B-lvv">
+                                <rect key="frame" x="87" y="18" width="278" height="31.5"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                                <color key="textColor" red="0.26051741839999998" green="0.2605243921" blue="0.260520637" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="tyl-iK-Gm2" firstAttribute="centerX" secondItem="JsV-7p-X9d" secondAttribute="centerX" id="1sJ-cd-7QZ"/>
+                            <constraint firstItem="tyl-iK-Gm2" firstAttribute="top" secondItem="JsV-7p-X9d" secondAttribute="bottom" constant="5.5" id="4om-1R-rmB"/>
+                            <constraint firstAttribute="trailing" secondItem="2IR-4B-lvv" secondAttribute="trailing" constant="50" id="H9E-WA-pZD"/>
+                            <constraint firstItem="JsV-7p-X9d" firstAttribute="leading" secondItem="igC-yu-VMS" secondAttribute="leading" constant="19" id="QAP-va-Bdd"/>
+                            <constraint firstItem="2IR-4B-lvv" firstAttribute="leading" secondItem="JsV-7p-X9d" secondAttribute="trailing" constant="8" id="Qsu-je-HEh"/>
+                            <constraint firstAttribute="trailing" secondItem="dkx-VQ-Afa" secondAttribute="trailing" constant="8" id="YdT-CM-x42"/>
+                            <constraint firstItem="2IR-4B-lvv" firstAttribute="top" secondItem="igC-yu-VMS" secondAttribute="top" constant="18" id="jET-M2-HsY"/>
+                            <constraint firstAttribute="bottom" secondItem="dkx-VQ-Afa" secondAttribute="bottom" constant="14" id="pl2-Mb-t86"/>
+                            <constraint firstAttribute="height" constant="93" id="vqa-1a-ScB"/>
+                            <constraint firstItem="JsV-7p-X9d" firstAttribute="centerY" secondItem="igC-yu-VMS" secondAttribute="centerY" constant="-5" id="yy7-UB-jlC"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <color key="backgroundColor" red="0.92143100499999997" green="0.92145264149999995" blue="0.92144101860000005" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                <constraints>
+                    <constraint firstItem="igC-yu-VMS" firstAttribute="top" secondItem="z5X-x3-bUA" secondAttribute="top" id="8Y8-tP-JGh"/>
+                    <constraint firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="igC-yu-VMS" secondAttribute="bottom" constant="2" id="pXO-AT-9Xl"/>
+                    <constraint firstAttribute="trailing" secondItem="igC-yu-VMS" secondAttribute="trailing" id="wzn-H3-d54"/>
+                    <constraint firstItem="igC-yu-VMS" firstAttribute="leading" secondItem="z5X-x3-bUA" secondAttribute="leading" id="yr5-Zo-xe3"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="TRg-91-L6a"/>
+            <connections>
+                <outlet property="descriptionLabel" destination="2IR-4B-lvv" id="ZAR-9o-MAW"/>
+                <outlet property="eventDateLabel" destination="dkx-VQ-Afa" id="eKb-Hq-PE8"/>
+                <outlet property="nameLabel" destination="tyl-iK-Gm2" id="fQy-XL-t6K"/>
+                <outlet property="recmMemberImage" destination="JsV-7p-X9d" id="ERH-4n-poA"/>
+            </connections>
+            <point key="canvasLocation" x="-168" y="-31"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="my_recm_profile1.png" width="93" height="93"/>
+    </resources>
+</document>

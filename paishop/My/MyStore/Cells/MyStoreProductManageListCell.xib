@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" rowHeight="137" id="WoN-M7-W4n" customClass="MyStoreProductManageListCell" customModule="paishop" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="137"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="WoN-M7-W4n" id="rYu-pi-Hjo">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="136.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="yga-4c-0wn" customClass="GradientView" customModule="paishop" customModuleProvider="target">
+                        <rect key="frame" x="8" y="0.0" width="304" height="108"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="default_image.png" translatesAutoresizingMaskIntoConstraints="NO" id="xJM-pz-fwM">
+                                <rect key="frame" x="8" y="12" width="92.5" height="84"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="xJM-pz-fwM" secondAttribute="height" multiplier="1.1:1" id="O8g-aH-bzO"/>
+                                    <constraint firstAttribute="height" constant="84" id="P50-TJ-Ps1"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="小米红米Splus智能手机4g 小米红米Splus智能手机4g 小米" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gKr-w8-qCb">
+                                <rect key="frame" x="108.5" y="16" width="187.5" height="31.5"/>
+                                <fontDescription key="fontDescription" type="system" weight="medium" pointSize="13"/>
+                                <color key="textColor" red="0.14117647059999999" green="0.13725490200000001" blue="0.13725490200000001" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="11h-M0-Fcl">
+                                <rect key="frame" x="243" y="69" width="20" height="27"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="20" id="082-F3-vOR"/>
+                                    <constraint firstAttribute="height" constant="27" id="2Y4-Xh-hrP"/>
+                                </constraints>
+                                <state key="normal" image="my_store_download1_black.png"/>
+                                <connections>
+                                    <action selector="changeState:" destination="WoN-M7-W4n" eventType="touchUpInside" id="4Py-KW-D69"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="51q-50-JW5">
+                                <rect key="frame" x="271" y="73" width="20" height="23"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="20" id="HyK-Ir-EAb"/>
+                                    <constraint firstAttribute="height" constant="23" id="aZi-50-cbt"/>
+                                </constraints>
+                                <state key="normal" image="my_store_trash1_black.png"/>
+                                <connections>
+                                    <action selector="selectDelete:" destination="WoN-M7-W4n" eventType="touchUpInside" id="Gfn-va-rXI"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fdK-T7-ESG">
+                                <rect key="frame" x="192" y="73" width="20" height="23"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="23" id="Bub-ty-BIM"/>
+                                    <constraint firstAttribute="width" constant="20" id="x4I-yn-gOA"/>
+                                </constraints>
+                                <state key="normal" image="my_store_edit1_black.png"/>
+                                <connections>
+                                    <action selector="selectEdit:" destination="WoN-M7-W4n" eventType="touchUpInside" id="bJ3-Af-gve"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="bottom" secondItem="fdK-T7-ESG" secondAttribute="bottom" constant="12" id="0Gh-Bd-iv5"/>
+                            <constraint firstItem="11h-M0-Fcl" firstAttribute="leading" secondItem="fdK-T7-ESG" secondAttribute="trailing" constant="31" id="4xy-C7-jkw"/>
+                            <constraint firstAttribute="bottom" secondItem="51q-50-JW5" secondAttribute="bottom" constant="12" id="Ar4-6c-hdj"/>
+                            <constraint firstItem="gKr-w8-qCb" firstAttribute="top" secondItem="yga-4c-0wn" secondAttribute="top" constant="16" id="BJu-Bv-T3a"/>
+                            <constraint firstAttribute="bottom" secondItem="11h-M0-Fcl" secondAttribute="bottom" constant="12" id="CJM-8F-gGH"/>
+                            <constraint firstItem="gKr-w8-qCb" firstAttribute="leading" secondItem="xJM-pz-fwM" secondAttribute="trailing" constant="8" id="EKd-Vq-3UL"/>
+                            <constraint firstItem="xJM-pz-fwM" firstAttribute="leading" secondItem="yga-4c-0wn" secondAttribute="leading" constant="8" id="H8C-tx-oqS"/>
+                            <constraint firstAttribute="bottom" secondItem="xJM-pz-fwM" secondAttribute="bottom" constant="12" id="HS3-TI-Kgp"/>
+                            <constraint firstAttribute="trailing" secondItem="51q-50-JW5" secondAttribute="trailing" constant="13" id="UKM-fr-WVZ"/>
+                            <constraint firstItem="xJM-pz-fwM" firstAttribute="top" secondItem="yga-4c-0wn" secondAttribute="top" constant="12" id="Vfy-Jm-tzB"/>
+                            <constraint firstAttribute="trailing" secondItem="gKr-w8-qCb" secondAttribute="trailing" constant="8" id="ZmC-6X-N1S"/>
+                            <constraint firstItem="51q-50-JW5" firstAttribute="leading" secondItem="11h-M0-Fcl" secondAttribute="trailing" constant="8" id="bRL-Bm-Caq"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="color" keyPath="startColor">
+                                <color key="value" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="color" keyPath="endColor">
+                                <color key="value" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="color" keyPath="shadowColor">
+                                <color key="value" red="0.59607843140000005" green="0.59607843140000005" blue="0.59607843140000005" alpha="1" colorSpace="calibratedRGB"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="shadowBlur">
+                                <real key="value" value="2"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="4"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="shadowX">
+                                <real key="value" value="0.0"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="shadowY">
+                                <real key="value" value="0.0"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+                <color key="backgroundColor" red="0.94901960780000005" green="0.94901960780000005" blue="0.94901960780000005" alpha="1" colorSpace="calibratedRGB"/>
+                <constraints>
+                    <constraint firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="yga-4c-0wn" secondAttribute="bottom" constant="12" id="92X-Ph-0Jn"/>
+                    <constraint firstItem="yga-4c-0wn" firstAttribute="leading" secondItem="rYu-pi-Hjo" secondAttribute="leading" constant="8" id="WaR-lj-x3v"/>
+                    <constraint firstAttribute="trailing" secondItem="yga-4c-0wn" secondAttribute="trailing" constant="8" id="dKO-Lm-KvV"/>
+                    <constraint firstItem="yga-4c-0wn" firstAttribute="top" secondItem="rYu-pi-Hjo" secondAttribute="top" id="tv3-RT-KE9"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="3fv-uw-EOV"/>
+            <connections>
+                <outlet property="descriptionLabel" destination="gKr-w8-qCb" id="CNg-RW-osc"/>
+                <outlet property="productImageView" destination="xJM-pz-fwM" id="0fk-9k-OnU"/>
+                <outlet property="stateButton" destination="11h-M0-Fcl" id="ZfL-Eg-Vu2"/>
+            </connections>
+            <point key="canvasLocation" x="-102" y="-15.5"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="default_image.png" width="375" height="375"/>
+        <image name="my_store_download1_black.png" width="51" height="60"/>
+        <image name="my_store_edit1_black.png" width="47" height="47"/>
+        <image name="my_store_trash1_black.png" width="50" height="49"/>
+    </resources>
+</document>

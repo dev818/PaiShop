@@ -1,0 +1,213 @@
+PODS:
+  - Alamofire (4.7.3)
+  - AlivcLivePusherWithPlayer (3.2.0):
+    - AlivcLivePusherWithPlayer/AlivcLivePusherWithPlayer (= 3.2.0)
+  - AlivcLivePusherWithPlayer/AlivcLivePusherWithPlayer (3.2.0)
+  - AliyunOSSiOS (2.10.7)
+  - AliyunPlayer_iOS (3.4.0.1):
+    - AliyunPlayer_iOS/AliyunPlayerSDK (= 3.4.0.1)
+    - AliyunPlayer_iOS/AliyunVodPlayerSDK (= 3.4.0.1)
+  - AliyunPlayer_iOS/AliyunPlayerSDK (3.4.0.1)
+  - AliyunPlayer_iOS/AliyunVodPlayerSDK (3.4.0.1):
+    - AliyunPlayer_iOS/AliyunPlayerSDK
+  - AssistantKit (0.4.1)
+  - BaiduMapKit (3.4.4)
+  - BEMCheckBox (1.4.1)
+  - BSGridCollectionViewLayout (1.2.2)
+  - BSImagePicker (2.9.0):
+    - BSGridCollectionViewLayout (= 1.2.2)
+    - BSImageView (= 1.0.2)
+  - BSImageView (1.0.2)
+  - DatePickerDialog (2.0)
+  - DLRadioButton (1.4.12)
+  - DropDown (2.3.9)
+  - ESTabBarController-swift (2.6.2)
+  - IGRPhotoTweaks (1.0.7)
+  - IQKeyboardManagerSwift (6.2.0)
+  - KeychainAccess (3.1.2)
+  - Kingfisher (4.10.0)
+  - libwebp (0.6.1):
+    - libwebp/core (= 0.6.1)
+    - libwebp/dec (= 0.6.1)
+    - libwebp/demux (= 0.6.1)
+    - libwebp/dsp (= 0.6.1)
+    - libwebp/enc (= 0.6.1)
+    - libwebp/mux (= 0.6.1)
+    - libwebp/utils (= 0.6.1)
+    - libwebp/webp (= 0.6.1)
+  - libwebp/core (0.6.1):
+    - libwebp/webp
+  - libwebp/dec (0.6.1):
+    - libwebp/core
+  - libwebp/demux (0.6.1):
+    - libwebp/core
+  - libwebp/dsp (0.6.1):
+    - libwebp/core
+  - libwebp/enc (0.6.1):
+    - libwebp/core
+  - libwebp/mux (0.6.1):
+    - libwebp/core
+  - libwebp/utils (0.6.1):
+    - libwebp/core
+  - libwebp/webp (0.6.1)
+  - MJRefresh (3.1.15.7)
+  - MonkeyKing (1.12.1)
+  - ObjectMapper (3.3.0)
+  - QRCode (2.0)
+  - QRCodeReader.swift (9.0.1)
+  - RxCocoa (4.3.1):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.3.1)
+  - SDCycleScrollView (1.75):
+    - SDWebImage (>= 4.0.0)
+  - SDWebImage (4.4.2):
+    - SDWebImage/Core (= 4.4.2)
+  - SDWebImage/Core (4.4.2)
+  - SDWebImage/WebP (4.4.2):
+    - libwebp (~> 0.5)
+    - SDWebImage/Core
+  - SKPhotoBrowser (6.0.0)
+  - SnapKit (4.0.1)
+  - Starscream (3.0.6)
+  - SVProgressHUD (2.2.5)
+  - swiftScan (1.1.5)
+  - SwiftyJSON (4.2.0)
+  - TimedSilver (1.1.0)
+  - Toast-Swift (4.0.0)
+  - "UITextView+Placeholder (1.2.1)"
+  - XLActionController (4.1.0):
+    - XLActionController/Core (= 4.1.0)
+  - XLActionController/Core (4.1.0)
+  - XLActionController/Periscope (4.1.0):
+    - XLActionController/Core
+  - XLPagerTabStrip (8.0.1)
+  - YYText (1.0.7)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlivcLivePusherWithPlayer (= 3.2.0)
+  - AliyunOSSiOS
+  - AliyunPlayer_iOS (= 3.4.0.1)
+  - AssistantKit
+  - BaiduMapKit (= 3.4.4)
+  - BEMCheckBox
+  - BSImagePicker
+  - DatePickerDialog
+  - DLRadioButton
+  - DropDown
+  - ESTabBarController-swift
+  - IGRPhotoTweaks
+  - IQKeyboardManagerSwift
+  - KeychainAccess
+  - Kingfisher
+  - MJRefresh
+  - MonkeyKing
+  - ObjectMapper
+  - QRCode
+  - QRCodeReader.swift
+  - RxCocoa
+  - RxSwift
+  - SDCycleScrollView
+  - SDWebImage/WebP
+  - SKPhotoBrowser
+  - SnapKit
+  - Starscream
+  - SVProgressHUD
+  - swiftScan
+  - SwiftyJSON
+  - TimedSilver
+  - Toast-Swift
+  - "UITextView+Placeholder"
+  - XLActionController
+  - XLActionController/Periscope
+  - XLPagerTabStrip
+  - YYText
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlivcLivePusherWithPlayer
+    - AliyunOSSiOS
+    - AliyunPlayer_iOS
+    - AssistantKit
+    - BaiduMapKit
+    - BEMCheckBox
+    - BSGridCollectionViewLayout
+    - BSImagePicker
+    - BSImageView
+    - DatePickerDialog
+    - DLRadioButton
+    - DropDown
+    - ESTabBarController-swift
+    - IGRPhotoTweaks
+    - IQKeyboardManagerSwift
+    - KeychainAccess
+    - Kingfisher
+    - libwebp
+    - MJRefresh
+    - MonkeyKing
+    - ObjectMapper
+    - QRCode
+    - QRCodeReader.swift
+    - RxCocoa
+    - RxSwift
+    - SDCycleScrollView
+    - SDWebImage
+    - SKPhotoBrowser
+    - SnapKit
+    - Starscream
+    - SVProgressHUD
+    - swiftScan
+    - SwiftyJSON
+    - TimedSilver
+    - Toast-Swift
+    - "UITextView+Placeholder"
+    - XLActionController
+    - XLPagerTabStrip
+    - YYText
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  AlivcLivePusherWithPlayer: 7702636e5547659e0c36ada19921f875e03322a5
+  AliyunOSSiOS: 602b6a4e70e62a5f0a6431c20496343141d7e66f
+  AliyunPlayer_iOS: 286ac3f4ca91ea9581e92b9e5a4bcd66c81db8ed
+  AssistantKit: 9ee71039dffa9dc050de945258e50e3e6bb20d5c
+  BaiduMapKit: 4ac88f5a363500760392825b69709f4a0125f81e
+  BEMCheckBox: 5ba6e37ade3d3657b36caecc35c8b75c6c2b1a4e
+  BSGridCollectionViewLayout: 3e6f23b3a2b4f0ca9afae09ca01389d1057f7b32
+  BSImagePicker: 553707de1adaad42eac252e0b84d20dbdba83fe9
+  BSImageView: ab22ff8cae61f1ae17a3c9efeeb216af3cf84a09
+  DatePickerDialog: 5e1c24d9fe6506cd45dbc573eed7b0a251b1c09d
+  DLRadioButton: d7c4e225ed0e8013cef7be61455230c7557ad7c1
+  DropDown: d187d4abdfa708a2990aff0f4fcfab77c6b161df
+  ESTabBarController-swift: f0a8679e43df1e60b7b36bbcaf1dc98ba6273c7d
+  IGRPhotoTweaks: 8fe6b62c6599238d860b19b46a85a454e202f502
+  IQKeyboardManagerSwift: b07ccf9d8cafe993dcd6cb794eb4ba34611a0c4e
+  KeychainAccess: b3816fddcf28aa29d94b10ec305cd52be14c472b
+  Kingfisher: 43c4b802d8b5256cf1f4379e9cd10b329be6d3e2
+  libwebp: 0f01098c6c17175391af621b2f14150f3ca16e16
+  MJRefresh: 697f8ec75ebdbe9207767bb682cf0f51b0d8a41f
+  MonkeyKing: 280cdc68eb39f8b899b17fdfe994a695f6fdc636
+  ObjectMapper: b612bf8c8e99c4dc0bb6013a51f7c27966ed5da9
+  QRCode: f98a1886c8f37523704a7512a4c0cd45b34c18a4
+  QRCodeReader.swift: 96292a5612fbc2fd9a0b26f93fa5164c8d02f59d
+  RxCocoa: 78763c7b07d02455598d9fc3c1ad091a28b73635
+  RxSwift: fe0fd770a43acdb7d0a53da411c9b892e69bb6e4
+  SDCycleScrollView: 884b88f0266dd4708a0e1934975c69cb971707b1
+  SDWebImage: 624d6e296c69b244bcede364c72ae0430ac14681
+  SKPhotoBrowser: 76eb862685761707b5745fde7762757966565e07
+  SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
+  Starscream: ef3ece99d765eeccb67de105bfa143f929026cf5
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  swiftScan: bc6dbf74e6a579c45a861691afc44628d8d9f6ab
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+  TimedSilver: 07e6e9098989104d558801371c05f64bcaf354f5
+  Toast-Swift: 594b5c5e5129f15438e410207e43287f027b3c00
+  "UITextView+Placeholder": 0c3efd97f37ea64bde7f34cc6e90fe02e87b3909
+  XLActionController: e8a8b38d3b226a69921e412e769d8483d1794064
+  XLPagerTabStrip: c908b17cbf42fcd2598ee1adfc49bae25444d88a
+  YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
+
+PODFILE CHECKSUM: be8297b6b0293834c2f270e8c72a4c8b2ce085f9
+
+COCOAPODS: 1.5.3

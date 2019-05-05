@@ -1,0 +1,960 @@
+
+/* Class = "UILabel"; text = "交货号码"; ObjectID = "08X-7a-5ba"; */
+"08X-7a-5ba.text" = "交货号码";
+
+/* Class = "UILabel"; text = "¥10.00"; ObjectID = "0A3-d0-egQ"; */
+"0A3-d0-egQ.text" = "¥10.00";
+
+/* Class = "UILabel"; text = "钱包"; ObjectID = "0EJ-HO-1Nz"; */
+"0EJ-HO-1Nz.text" = "钱包";
+
+/* Class = "UILabel"; text = "π : 350.0"; ObjectID = "0PY-jL-vte"; */
+"0PY-jL-vte.text" = "π : 350.0";
+
+/* Class = "UILabel"; text = "提现余额:"; ObjectID = "0Rl-Kl-aQ9"; */
+"0Rl-Kl-aQ9.text" = "提现余额:";
+
+/* Class = "UISegmentedControl"; 0qG-Y3-VR1.segmentTitles[0] = "π商品"; ObjectID = "0qG-Y3-VR1"; */
+"0qG-Y3-VR1.segmentTitles[0]" = "π商品";
+
+/* Class = "UISegmentedControl"; 0qG-Y3-VR1.segmentTitles[1] = "¥商品"; ObjectID = "0qG-Y3-VR1"; */
+"0qG-Y3-VR1.segmentTitles[1]" = "¥商品";
+
+/* Class = "UILabel"; text = "详细地址"; ObjectID = "10F-vC-gkq"; */
+"10F-vC-gkq.text" = "详细地址";
+
+/* Class = "UILabel"; text = "提现余额:"; ObjectID = "17Y-Rj-2hI"; */
+"17Y-Rj-2hI.text" = "提现余额:";
+
+/* Class = "UILabel"; text = "(必填)"; ObjectID = "18b-9q-lwG"; */
+"18b-9q-lwG.text" = "(必填)";
+
+/* Class = "UILabel"; text = "提现"; ObjectID = "19Q-0K-V55"; */
+"19Q-0K-V55.text" = "提现";
+
+/* Class = "UIButton"; normalTitle = "提交订单"; ObjectID = "1sA-6d-NFH"; */
+"1sA-6d-NFH.normalTitle" = "提交订单";
+
+/* Class = "UIButton"; normalTitle = "添加新商品"; ObjectID = "2fF-4a-Rjt"; */
+"2fF-4a-Rjt.normalTitle" = "添加新商品";
+
+/* Class = "UILabel"; text = "请上传门店照片"; ObjectID = "2fk-7z-dYD"; */
+"2fk-7z-dYD.text" = "请上传门店照片";
+
+/* Class = "UILabel"; text = "¥40.00"; ObjectID = "2v9-po-jA8"; */
+"2v9-po-jA8.text" = "¥40.00";
+
+/* Class = "UILabel"; text = "账户余额:"; ObjectID = "3A6-sY-wgv"; */
+"3A6-sY-wgv.text" = "账户余额:";
+
+/* Class = "UILabel"; text = "订单日期 "; ObjectID = "46K-Rc-GAt"; */
+"46K-Rc-GAt.text" = "订单日期 ";
+
+/* Class = "UIButton"; normalTitle = "确认"; ObjectID = "4mj-rv-yYG"; */
+"4mj-rv-yYG.normalTitle" = "确认";
+
+/* Class = "UILabel"; text = "3243"; ObjectID = "502-Ya-OOM"; */
+"502-Ya-OOM.text" = "3243";
+
+/* Class = "UILabel"; text = "address"; ObjectID = "5JR-HI-bFC"; */
+"5JR-HI-bFC.text" = "address";
+
+/* Class = "UILabel"; text = "交货号码"; ObjectID = "5LS-Wl-iIK"; */
+"5LS-Wl-iIK.text" = "交货号码";
+
+/* Class = "UILabel"; text = "充值记录"; ObjectID = "5TV-kp-dZX"; */
+"5TV-kp-dZX.text" = "充值记录";
+
+/* Class = "UILabel"; text = "交易密码"; ObjectID = "5Yb-rH-eK1"; */
+"5Yb-rH-eK1.text" = "交易密码";
+
+/* Class = "UILabel"; text = "¥10.00"; ObjectID = "5he-Xd-60B"; */
+"5he-Xd-60B.text" = "¥10.00";
+
+/* Class = "UILabel"; text = "周期:"; ObjectID = "68H-uY-SwX"; */
+"68H-uY-SwX.text" = "周期:";
+
+/* Class = "UILabel"; text = "后四位:"; ObjectID = "6K7-Zn-nnr"; */
+"6K7-Zn-nnr.text" = "后四位:";
+
+/* Class = "UISegmentedControl"; 6Sq-Ld-9JR.segmentTitles[0] = "消费商品\n"; ObjectID = "6Sq-Ld-9JR"; */
+"6Sq-Ld-9JR.segmentTitles[0]" = "消费商品\n";
+
+/* Class = "UISegmentedControl"; 6Sq-Ld-9JR.segmentTitles[1] = "销售商品\n"; ObjectID = "6Sq-Ld-9JR"; */
+"6Sq-Ld-9JR.segmentTitles[1]" = "销售商品\n";
+
+/* Class = "UIButton"; normalTitle = "确认"; ObjectID = "6WU-oa-c5B"; */
+"6WU-oa-c5B.normalTitle" = "确认";
+
+/* Class = "UILabel"; text = "开始时间"; ObjectID = "78m-0V-dz8"; */
+"78m-0V-dz8.text" = "开始时间";
+
+/* Class = "UILabel"; text = "手机号"; ObjectID = "79H-uA-SE3"; */
+"79H-uA-SE3.text" = "手机号";
+
+/* Class = "UIButton"; normalTitle = "150π"; ObjectID = "7EG-Xx-3Kc"; */
+"7EG-Xx-3Kc.normalTitle" = "150π";
+
+/* Class = "UIButton"; normalTitle = "确认"; ObjectID = "7KQ-Lt-dMe"; */
+"7KQ-Lt-dMe.normalTitle" = "确认";
+
+/* Class = "UITextField"; placeholder = "请输入π用户名"; ObjectID = "7Vb-BX-raE"; */
+"7Vb-BX-raE.placeholder" = "请输入π用户名";
+
+/* Class = "UILabel"; text = "当前版本"; ObjectID = "7iE-pi-yFd"; */
+"7iE-pi-yFd.text" = "当前版本";
+
+/* Class = "UILabel"; text = "¥"; ObjectID = "7rm-SW-yvX"; */
+"7rm-SW-yvX.text" = "¥";
+
+/* Class = "UILabel"; text = "请上传营业执照"; ObjectID = "8Rh-O6-32l"; */
+"8Rh-O6-32l.text" = "请上传营业执照";
+
+/* Class = "UILabel"; text = "453"; ObjectID = "8qU-x3-oGU"; */
+"8qU-x3-oGU.text" = "453";
+
+/* Class = "UITextField"; placeholder = "请输入新密码"; ObjectID = "90v-e6-Vgf"; */
+"90v-e6-Vgf.placeholder" = "请输入新密码";
+
+/* Class = "UILabel"; text = "店铺管理"; ObjectID = "9GX-w2-gka"; */
+"9GX-w2-gka.text" = "店铺管理";
+
+/* Class = "UISegmentedControl"; 9m8-sq-4zl.segmentTitles[0] = "收入明细\n"; ObjectID = "9m8-sq-4zl"; */
+"9m8-sq-4zl.segmentTitles[0]" = "收入明细\n";
+
+/* Class = "UISegmentedControl"; 9m8-sq-4zl.segmentTitles[1] = "消费明细\n"; ObjectID = "9m8-sq-4zl"; */
+"9m8-sq-4zl.segmentTitles[1]" = "消费明细\n";
+
+/* Class = "UILabel"; text = "月份:"; ObjectID = "A5S-Ro-ZKt"; */
+"A5S-Ro-ZKt.text" = "月份:";
+
+/* Class = "UITextField"; placeholder = "请输入手机号"; ObjectID = "AKW-5e-Agb"; */
+"AKW-5e-Agb.placeholder" = "请输入手机号";
+
+/* Class = "UILabel"; text = "返还期数"; ObjectID = "ATC-Ns-7bM"; */
+"ATC-Ns-7bM.text" = "返还期数";
+
+/* Class = "UILabel"; text = "新西但爱首苹果 新西但爱首苹果  新西但爱首苹果  新西但爱首苹果  新西但爱首苹果  新西但爱首苹果  "; ObjectID = "AXZ-6x-cq7"; */
+"AXZ-6x-cq7.text" = "新西但爱首苹果 新西但爱首苹果  新西但爱首苹果  新西但爱首苹果  新西但爱首苹果  新西但爱首苹果  ";
+
+/* Class = "UILabel"; text = "入驻费用/年：198元20190118到期"; ObjectID = "AY3-Qt-PPi"; */
+"AY3-Qt-PPi.text" = "入驻费用/年：198元20190118到期";
+
+/* Class = "UILabel"; text = "请选择商品类型"; ObjectID = "AdB-2C-lRy"; */
+"AdB-2C-lRy.text" = "请选择商品类型";
+
+/* Class = "UILabel"; text = "发布商品"; ObjectID = "B1a-Y1-XQd"; */
+"B1a-Y1-XQd.text" = "发布商品";
+
+/* Class = "UIButton"; normalTitle = "150π"; ObjectID = "B3H-bI-FR0"; */
+"B3H-bI-FR0.normalTitle" = "150π";
+
+/* Class = "UILabel"; text = "实付款"; ObjectID = "BoS-NW-Krh"; */
+"BoS-NW-Krh.text" = "实付款";
+
+/* Class = "UILabel"; text = "1779"; ObjectID = "CBN-bZ-rsE"; */
+"CBN-bZ-rsE.text" = "1779";
+
+/* Class = "UILabel"; text = "x1"; ObjectID = "CDq-tZ-Q6d"; */
+"CDq-tZ-Q6d.text" = "x1";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "Cgj-WO-o2H"; */
+"Cgj-WO-o2H.text" = "100";
+
+/* Class = "UITextField"; placeholder = "请输入交易密码"; ObjectID = "Cxj-68-yNx"; */
+"Cxj-68-yNx.placeholder" = "请输入交易密码";
+
+/* Class = "UILabel"; text = "全选"; ObjectID = "D78-EG-aNB"; */
+"D78-EG-aNB.text" = "全选";
+
+/* Class = "UILabel"; text = "新店入驻"; ObjectID = "DDU-fk-CMv"; */
+"DDU-fk-CMv.text" = "新店入驻";
+
+/* Class = "UILabel"; text = "提现账户:"; ObjectID = "DEa-Wr-Z57"; */
+"DEa-Wr-Z57.text" = "提现账户:";
+
+/* Class = "UILabel"; text = "收货地址 :"; ObjectID = "DGu-ah-f9c"; */
+"DGu-ah-f9c.text" = "收货地址 :";
+
+/* Class = "UIButton"; normalTitle = "300π"; ObjectID = "DJN-L6-SzD"; */
+"DJN-L6-SzD.normalTitle" = "300π";
+
+/* Class = "UILabel"; text = "Discovery账号"; ObjectID = "DZT-Wu-8hX"; */
+"DZT-Wu-8hX.text" = "Discovery账号";
+
+/* Class = "UILabel"; text = "会员价格 :"; ObjectID = "DdJ-Fz-pjY"; */
+"DdJ-Fz-pjY.text" = "会员价格 :";
+
+/* Class = "UILabel"; text = "实付款"; ObjectID = "DuG-CO-Ll1"; */
+"DuG-CO-Ll1.text" = "实付款";
+
+/* Class = "UIButton"; normalTitle = "添加新店铺"; ObjectID = "E1u-Ii-5Kp"; */
+"E1u-Ii-5Kp.normalTitle" = "添加新店铺";
+
+/* Class = "UILabel"; text = "商品管理"; ObjectID = "E5L-Kc-UJc"; */
+"E5L-Kc-UJc.text" = "商品管理";
+
+/* Class = "UILabel"; text = "买家月返"; ObjectID = "E7f-FI-zrw"; */
+"E7f-FI-zrw.text" = "买家月返";
+
+/* Class = "UILabel"; text = " 2018-03-04 ~ 2018-04-30"; ObjectID = "EGN-go-jEy"; */
+"EGN-go-jEy.text" = " 2018-03-04 ~ 2018-04-30";
+
+/* Class = "UILabel"; text = "237823478 dfjkdfjskdfjksdjfks jfksf"; ObjectID = "EHP-D8-CxB"; */
+"EHP-D8-CxB.text" = "237823478 dfjkdfjskdfjksdjfks jfksf";
+
+/* Class = "UIButton"; normalTitle = "50π"; ObjectID = "EPN-Js-fsx"; */
+"EPN-Js-fsx.normalTitle" = "50π";
+
+/* Class = "UILabel"; text = "introduction........."; ObjectID = "FBh-U8-v69"; */
+"FBh-U8-v69.text" = "introduction.........";
+
+/* Class = "UISegmentedControl"; FCL-jE-YKL.segmentTitles[0] = "π商品"; ObjectID = "FCL-jE-YKL"; */
+"FCL-jE-YKL.segmentTitles[0]" = "π商品";
+
+/* Class = "UISegmentedControl"; FCL-jE-YKL.segmentTitles[1] = "¥商品"; ObjectID = "FCL-jE-YKL"; */
+"FCL-jE-YKL.segmentTitles[1]" = "¥商品";
+
+/* Class = "UILabel"; text = "Discovery"; ObjectID = "FKe-1p-aID"; */
+"FKe-1p-aID.text" = "Discovery";
+
+/* Class = "UILabel"; text = "198.00π"; ObjectID = "Fac-cm-gos"; */
+"Fac-cm-gos.text" = "198.00π";
+
+/* Class = "UILabel"; text = " 藏宝比例"; ObjectID = "Ff3-Qt-spJ"; */
+"Ff3-Qt-spJ.text" = " 藏宝比例";
+
+/* Class = "UILabel"; text = "address"; ObjectID = "FpT-E0-6C3"; */
+"FpT-E0-6C3.text" = "address";
+
+/* Class = "UITextField"; placeholder = "请输入交易密码"; ObjectID = "G0s-PL-c5C"; */
+"G0s-PL-c5C.placeholder" = "请输入交易密码";
+
+/* Class = "UILabel"; text = "  π积分 : 3500"; ObjectID = "Gjb-AH-uOM"; */
+"Gjb-AH-uOM.text" = "  π积分 : 3500";
+
+/* Class = "UILabel"; text = "确认密码"; ObjectID = "Gk8-ZY-JDo"; */
+"Gk8-ZY-JDo.text" = "确认密码";
+
+/* Class = "UIButton"; normalTitle = "删除"; ObjectID = "HCX-bM-YVa"; */
+"HCX-bM-YVa.normalTitle" = "删除";
+
+/* Class = "UITextField"; placeholder = "请输入当前密码"; ObjectID = "HK7-Xy-ckX"; */
+"HK7-Xy-ckX.placeholder" = "请输入当前密码";
+
+/* Class = "UILabel"; text = "藏宝:"; ObjectID = "HSD-Zh-RGi"; */
+"HSD-Zh-RGi.text" = "藏宝:";
+
+/* Class = "UILabel"; text = "chihongzhe"; ObjectID = "HdU-VS-PRb"; */
+"HdU-VS-PRb.text" = "chihongzhe";
+
+/* Class = "UILabel"; text = "453"; ObjectID = "Hdw-0q-NaQ"; */
+"Hdw-0q-NaQ.text" = "453";
+
+/* Class = "UILabel"; text = "π"; ObjectID = "HfI-tL-j7F"; */
+"HfI-tL-j7F.text" = "π";
+
+/* Class = "UILabel"; text = "返还明细 \n"; ObjectID = "HgB-qH-1n5"; */
+"HgB-qH-1n5.text" = "返还明细 \n";
+
+/* Class = "UILabel"; text = "月返"; ObjectID = "HmR-me-4ju"; */
+"HmR-me-4ju.text" = "月返";
+
+/* Class = "UILabel"; text = "  π积分 : 3500"; ObjectID = "IBP-CG-S9a"; */
+"IBP-CG-S9a.text" = "  π积分 : 3500";
+
+/* Class = "UILabel"; text = "联系电话"; ObjectID = "IKm-Og-LK5"; */
+"IKm-Og-LK5.text" = "联系电话";
+
+/* Class = "UILabel"; text = "手续费"; ObjectID = "IfD-wZ-n4J"; */
+"IfD-wZ-n4J.text" = "手续费";
+
+/* Class = "UILabel"; text = "联系电话 :"; ObjectID = "Iqk-mD-pbx"; */
+"Iqk-mD-pbx.text" = "联系电话 :";
+
+/* Class = "UIButton"; normalTitle = "保存提交"; ObjectID = "Iut-oF-dhD"; */
+"Iut-oF-dhD.normalTitle" = "保存提交";
+
+/* Class = "UIButton"; normalTitle = "确认支付"; ObjectID = "J7L-Gg-O96"; */
+"J7L-Gg-O96.normalTitle" = "确认支付";
+
+/* Class = "UILabel"; text = "¥10.00"; ObjectID = "JDS-Sm-c7G"; */
+"JDS-Sm-c7G.text" = "¥10.00";
+
+/* Class = "UILabel"; text = "实际到账"; ObjectID = "JVg-Rj-4oq"; */
+"JVg-Rj-4oq.text" = "实际到账";
+
+/* Class = "UILabel"; text = "交易密码"; ObjectID = "Jg9-1c-smD"; */
+"Jg9-1c-smD.text" = "交易密码";
+
+/* Class = "UIButton"; normalTitle = "250π"; ObjectID = "Jkp-we-TG5"; */
+"Jkp-we-TG5.normalTitle" = "250π";
+
+/* Class = "UIButton"; normalTitle = "200π"; ObjectID = "K6N-IL-ojr"; */
+"K6N-IL-ojr.normalTitle" = "200π";
+
+/* Class = "UILabel"; text = "π积分 : 3500"; ObjectID = "Kdi-mk-ms7"; */
+"Kdi-mk-ms7.text" = "π积分 : 3500";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "Kev-GQ-pUd"; */
+"Kev-GQ-pUd.title" = "Cancel";
+
+/* Class = "UILabel"; text = "π 明细\n"; ObjectID = "KfC-Lp-qGw"; */
+"KfC-Lp-qGw.text" = "π 明细\n";
+
+/* Class = "UILabel"; text = "会员升级"; ObjectID = "LGn-LW-Pf1"; */
+"LGn-LW-Pf1.text" = "会员升级";
+
+/* Class = "UIButton"; normalTitle = "300π"; ObjectID = "LNl-RI-I5e"; */
+"LNl-RI-I5e.normalTitle" = "300π";
+
+/* Class = "UILabel"; text = "性别"; ObjectID = "LPX-nB-kxc"; */
+"LPX-nB-kxc.text" = "性别";
+
+/* Class = "UITextField"; placeholder = "请输入交易密码"; ObjectID = "LY1-hw-4ew"; */
+"LY1-hw-4ew.placeholder" = "请输入交易密码";
+
+/* Class = "UIButton"; normalTitle = "删除"; ObjectID = "LYN-yS-v1k"; */
+"LYN-yS-v1k.normalTitle" = "删除";
+
+/* Class = "UILabel"; text = "取消"; ObjectID = "LhE-fY-ISe"; */
+"LhE-fY-ISe.text" = "取消";
+
+/* Class = "UILabel"; text = " π500"; ObjectID = "LhL-3i-GXD"; */
+"LhL-3i-GXD.text" = " π500";
+
+/* Class = "UILabel"; text = "清理"; ObjectID = "Lx3-re-kvF"; */
+"Lx3-re-kvF.text" = "清理";
+
+/* Class = "UILabel"; text = "Discovery"; ObjectID = "M3X-hI-W71"; */
+"M3X-hI-W71.text" = "Discovery";
+
+/* Class = "UIButton"; normalTitle = "验证码"; ObjectID = "ME8-d7-tu9"; */
+"ME8-d7-tu9.normalTitle" = "验证码";
+
+/* Class = "UILabel"; text = "月返"; ObjectID = "MLr-Dy-bWH"; */
+"MLr-Dy-bWH.text" = "月返";
+
+/* Class = "UIButton"; normalTitle = "确认"; ObjectID = "MUq-t7-Jgw"; */
+"MUq-t7-Jgw.normalTitle" = "确认";
+
+/* Class = "UITextField"; placeholder = "请输入交易密码"; ObjectID = "MaF-rd-2ia"; */
+"MaF-rd-2ia.placeholder" = "请输入交易密码";
+
+/* Class = "UIButton"; normalTitle = "确认"; ObjectID = "Me5-Wh-45h"; */
+"Me5-Wh-45h.normalTitle" = "确认";
+
+/* Class = "UILabel"; text = "请选择商品类型"; ObjectID = "MgH-yh-p31"; */
+"MgH-yh-p31.text" = "请选择商品类型";
+
+/* Class = "UITextField"; placeholder = "请输入名字"; ObjectID = "Msv-7h-pin"; */
+"Msv-7h-pin.placeholder" = "请输入名字";
+
+/* Class = "UILabel"; text = "¥10.00"; ObjectID = "MtK-h8-Egv"; */
+"MtK-h8-Egv.text" = "¥10.00";
+
+/* Class = "UILabel"; text = "实际库存"; ObjectID = "Mxu-XZ-cRj"; */
+"Mxu-XZ-cRj.text" = "实际库存";
+
+/* Class = "UITextField"; placeholder = "必填，输入商品标题"; ObjectID = "Myy-f0-I3a"; */
+"Myy-f0-I3a.placeholder" = "必填，输入商品标题";
+
+/* Class = "UILabel"; text = "钱包"; ObjectID = "NMb-gw-Ahf"; */
+"NMb-gw-Ahf.text" = "钱包";
+
+/* Class = "UILabel"; text = "请选择归属店铺"; ObjectID = "NQL-sb-Ze5"; */
+"NQL-sb-Ze5.text" = "请选择归属店铺";
+
+/* Class = "UIButton"; normalTitle = "版本更新"; ObjectID = "NhO-uo-gOb"; */
+"NhO-uo-gOb.normalTitle" = "版本更新";
+
+/* Class = "UITextField"; placeholder = "请输入手机号码"; ObjectID = "OCd-gJ-Z3r"; */
+"OCd-gJ-Z3r.placeholder" = "请输入手机号码";
+
+/* Class = "UILabel"; text = "手机后四位"; ObjectID = "OIx-vG-Rl0"; */
+"OIx-vG-Rl0.text" = "手机后四位";
+
+/* Class = "UILabel"; text = "2.00π"; ObjectID = "OJK-7l-2BG"; */
+"OJK-7l-2BG.text" = "2.00π";
+
+/* Class = "UILabel"; text = "价格"; ObjectID = "OVi-Py-bde"; */
+"OVi-Py-bde.text" = "价格";
+
+/* Class = "UILabel"; text = "商品类型"; ObjectID = "Oi4-DF-H5y"; */
+"Oi4-DF-H5y.text" = "商品类型";
+
+/* Class = "UILabel"; text = "服务时间 ："; ObjectID = "Ox1-Z2-Nw4"; */
+"Ox1-Z2-Nw4.text" = "服务时间 ：";
+
+/* Class = "UILabel"; text = "关闭时间"; ObjectID = "P0U-UV-7S2"; */
+"P0U-UV-7S2.text" = "关闭时间";
+
+/* Class = "UIButton"; normalTitle = "结算(0)"; ObjectID = "PdF-Bb-AU2"; */
+"PdF-Bb-AU2.normalTitle" = "结算(0)";
+
+/* Class = "UILabel"; text = "Discovery"; ObjectID = "PjR-Pq-tnE"; */
+"PjR-Pq-tnE.text" = "Discovery";
+
+/* Class = "UILabel"; text = "状态"; ObjectID = "PxA-S5-wec"; */
+"PxA-S5-wec.text" = "状态";
+
+/* Class = "UILabel"; text = "缓存删除"; ObjectID = "QRR-4t-7xN"; */
+"QRR-4t-7xN.text" = "缓存删除";
+
+/* Class = "UIButton"; normalTitle = "确认支付"; ObjectID = "QWp-8i-ehS"; */
+"QWp-8i-ehS.normalTitle" = "确认支付";
+
+/* Class = "UILabel"; text = "订单日期 "; ObjectID = "Qy9-ju-45F"; */
+"Qy9-ju-45F.text" = "订单日期 ";
+
+/* Class = "UILabel"; text = "门店照片"; ObjectID = "R9m-BH-gLz"; */
+"R9m-BH-gLz.text" = "门店照片";
+
+/* Class = "UIButton"; normalTitle = "退出"; ObjectID = "RPI-im-OJl"; */
+"RPI-im-OJl.normalTitle" = "退出";
+
+/* Class = "UILabel"; text = "π积分 : 3500"; ObjectID = "RRg-0Z-V7f"; */
+"RRg-0Z-V7f.text" = "π积分 : 3500";
+
+/* Class = "UILabel"; text = "x1"; ObjectID = "Rfe-4E-TJd"; */
+"Rfe-4E-TJd.text" = "x1";
+
+/* Class = "UILabel"; text = "返还期数"; ObjectID = "TIo-Ga-mjQ"; */
+"TIo-Ga-mjQ.text" = "返还期数";
+
+/* Class = "UILabel"; text = "新西但爱首苹果 新西但爱首苹果  新西但爱首苹果  新西但爱首苹果  新西但爱首苹果  新西但爱首苹果  "; ObjectID = "TNR-Dv-0k5"; */
+"TNR-Dv-0k5.text" = "新西但爱首苹果 新西但爱首苹果  新西但爱首苹果  新西但爱首苹果  新西但爱首苹果  新西但爱首苹果  ";
+
+/* Class = "UILabel"; text = "状态"; ObjectID = "Td8-rR-bVx"; */
+"Td8-rR-bVx.text" = "状态";
+
+/* Class = "UITextField"; placeholder = "输入附加的位置信息"; ObjectID = "Ths-1F-Kkn"; */
+"Ths-1F-Kkn.placeholder" = "输入附加的位置信息";
+
+/* Class = "UILabel"; text = "10-19周三 09:  00-17:00"; ObjectID = "Tjf-bc-qEg"; */
+"Tjf-bc-qEg.text" = "10-19周三 09:  00-17:00";
+
+/* Class = "UILabel"; text = "新密码"; ObjectID = "Tlc-Tw-Evd"; */
+"Tlc-Tw-Evd.text" = "新密码";
+
+/* Class = "UIButton"; normalTitle = "确认"; ObjectID = "Tm1-NZ-LNK"; */
+"Tm1-NZ-LNK.normalTitle" = "确认";
+
+/* Class = "UILabel"; text = "10-19周三 09:  00-17:00"; ObjectID = "U4t-Kr-vvn"; */
+"U4t-Kr-vvn.text" = "10-19周三 09:  00-17:00";
+
+/* Class = "UIButton"; normalTitle = "200π"; ObjectID = "U6s-ql-Ne5"; */
+"U6s-ql-Ne5.normalTitle" = "200π";
+
+/* Class = "UILabel"; text = "¥10.00"; ObjectID = "UDE-IC-HGf"; */
+"UDE-IC-HGf.text" = "¥10.00";
+
+/* Class = "UILabel"; text = "¥ 明细\n"; ObjectID = "UMu-m1-n2d"; */
+"UMu-m1-n2d.text" = "¥ 明细\n";
+
+/* Class = "UILabel"; text = "π积分 : 3500"; ObjectID = "Uel-36-yNn"; */
+"Uel-36-yNn.text" = "π积分 : 3500";
+
+/* Class = "UILabel"; text = "23"; ObjectID = "Uhi-Sv-Oce"; */
+"Uhi-Sv-Oce.text" = "23";
+
+/* Class = "UILabel"; text = "π价格"; ObjectID = "Urj-0g-vVc"; */
+"Urj-0g-vVc.text" = "π价格";
+
+/* Class = "UILabel"; text = "33"; ObjectID = "V3z-I9-36p"; */
+"V3z-I9-36p.text" = "33";
+
+/* Class = "UILabel"; text = "商家月返"; ObjectID = "VP9-dH-vWU"; */
+"VP9-dH-vWU.text" = "商家月返";
+
+/* Class = "UILabel"; text = "π 积分明细"; ObjectID = "VUQ-d7-mo1"; */
+"VUQ-d7-mo1.text" = "π 积分明细";
+
+/* Class = "UILabel"; text = "您没有任何订单"; ObjectID = "Var-AT-jtX"; */
+"Var-AT-jtX.text" = "您没有任何订单";
+
+/* Class = "UILabel"; text = "已发货"; ObjectID = "Vcc-Ok-6Yr"; */
+"Vcc-Ok-6Yr.text" = "已发货";
+
+/* Class = "UILabel"; text = "青铜会员"; ObjectID = "Vd5-cg-i0c"; */
+"Vd5-cg-i0c.text" = "青铜会员";
+
+/* Class = "UILabel"; text = "交易密码"; ObjectID = "Vo0-aA-wge"; */
+"Vo0-aA-wge.text" = "交易密码";
+
+/* Class = "UILabel"; text = "付款方式"; ObjectID = "W1I-IR-1am"; */
+"W1I-IR-1am.text" = "付款方式";
+
+/* Class = "UILabel"; text = "地址定位中..."; ObjectID = "W7q-Jb-sJb"; */
+"W7q-Jb-sJb.text" = "地址定位中...";
+
+/* Class = "UILabel"; text = "账单明细\n"; ObjectID = "WOx-jb-gbV"; */
+"WOx-jb-gbV.text" = "账单明细\n";
+
+/* Class = "UITextField"; placeholder = "请输入确认密码"; ObjectID = "WVs-uE-k57"; */
+"WVs-uE-k57.placeholder" = "请输入确认密码";
+
+/* Class = "UILabel"; text = "π账号:"; ObjectID = "WoW-ep-t90"; */
+"WoW-ep-t90.text" = "π账号:";
+
+/* Class = "UILabel"; text = "最新版本"; ObjectID = "X0F-2I-C4U"; */
+"X0F-2I-C4U.text" = "最新版本";
+
+/* Class = "UILabel"; text = "余额 : 1250.0"; ObjectID = "XR7-XX-vCg"; */
+"XR7-XX-vCg.text" = "余额 : 1250.0";
+
+/* Class = "UILabel"; text = "π积分 : 3500"; ObjectID = "XeH-6a-aUw"; */
+"XeH-6a-aUw.text" = "π积分 : 3500";
+
+/* Class = "UILabel"; text = "商品详情"; ObjectID = "XrV-t0-0sQ"; */
+"XrV-t0-0sQ.text" = "商品详情";
+
+/* Class = "UILabel"; text = "店铺照片"; ObjectID = "Y4Q-1b-c7M"; */
+"Y4Q-1b-c7M.text" = "店铺照片";
+
+/* Class = "UILabel"; text = "2950"; ObjectID = "YIM-m4-kBE"; */
+"YIM-m4-kBE.text" = "2950";
+
+/* Class = "UITextField"; placeholder = "请输入验证码"; ObjectID = "YTk-OH-BO6"; */
+"YTk-OH-BO6.placeholder" = "请输入验证码";
+
+/* Class = "UILabel"; text = "充值余额:"; ObjectID = "Z9s-To-Tfv"; */
+"Z9s-To-Tfv.text" = "充值余额:";
+
+/* Class = "UILabel"; text = "订单日期 "; ObjectID = "ZAP-zR-mHK"; */
+"ZAP-zR-mHK.text" = "订单日期 ";
+
+/* Class = "UILabel"; text = "余额 ："; ObjectID = "ZLw-Mf-RYc"; */
+"ZLw-Mf-RYc.text" = "余额 ：";
+
+/* Class = "UILabel"; text = "收货地址 :"; ObjectID = "Zct-3A-n8M"; */
+"Zct-3A-n8M.text" = "收货地址 :";
+
+/* Class = "UILabel"; text = "18840861779"; ObjectID = "ZfF-nn-LTm"; */
+"ZfF-nn-LTm.text" = "18840861779";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "aAJ-Y7-QN8"; */
+"aAJ-Y7-QN8.text" = "name";
+
+/* Class = "UILabel"; text = "商品认证"; ObjectID = "adK-V9-iX0"; */
+"adK-V9-iX0.text" = "商品认证";
+
+/* Class = "UILabel"; text = "基本信息"; ObjectID = "ahl-fl-2DK"; */
+"ahl-fl-2DK.text" = "基本信息";
+
+/* Class = "UITextField"; placeholder = "必填，输入联系人姓名"; ObjectID = "ajz-JY-alZ"; */
+"ajz-JY-alZ.placeholder" = "必填，输入联系人姓名";
+
+/* Class = "UILabel"; text = "¥0"; ObjectID = "ax4-e8-PUu"; */
+"ax4-e8-PUu.text" = "¥0";
+
+/* Class = "UILabel"; text = "453"; ObjectID = "bEm-WB-egJ"; */
+"bEm-WB-egJ.text" = "453";
+
+/* Class = "UILabel"; text = "交易密码"; ObjectID = "bFm-VQ-M57"; */
+"bFm-VQ-M57.text" = "交易密码";
+
+/* Class = "UILabel"; text = "店铺名称"; ObjectID = "bbr-R7-dlC"; */
+"bbr-R7-dlC.text" = "店铺名称";
+
+/* Class = "UILabel"; text = "π账号:"; ObjectID = "cNi-iY-0Jd"; */
+"cNi-iY-0Jd.text" = "π账号:";
+
+/* Class = "UIButton"; normalTitle = "提交"; ObjectID = "cpk-lX-xmH"; */
+"cpk-lX-xmH.normalTitle" = "提交";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "cwR-pH-seO"; */
+"cwR-pH-seO.text" = "name";
+
+/* Class = "UILabel"; text = "Discovery"; ObjectID = "cyc-3D-fCV"; */
+"cyc-3D-fCV.text" = "Discovery";
+
+/* Class = "UILabel"; text = "充值余额:"; ObjectID = "daa-sJ-5k9"; */
+"daa-sJ-5k9.text" = "充值余额:";
+
+/* Class = "UIButton"; normalTitle = "确认"; ObjectID = "e5S-II-oCa"; */
+"e5S-II-oCa.normalTitle" = "确认";
+
+/* Class = "UILabel"; text = "会员级别 :"; ObjectID = "e7M-df-9HU"; */
+"e7M-df-9HU.text" = "会员级别 :";
+
+/* Class = "UILabel"; text = "¥0"; ObjectID = "eq2-Z9-tZM"; */
+"eq2-Z9-tZM.text" = "¥0";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eq3-lh-t5a"; */
+"eq3-lh-t5a.text" = "Label";
+
+/* Class = "UILabel"; text = "店铺分类"; ObjectID = "exV-vM-Gvz"; */
+"exV-vM-Gvz.text" = "店铺分类";
+
+/* Class = "UILabel"; text = "100%"; ObjectID = "f5e-QM-auU"; */
+"f5e-QM-auU.text" = "100%";
+
+/* Class = "UILabel"; text = "π : 350.0"; ObjectID = "f6V-1u-oBq"; */
+"f6V-1u-oBq.text" = "π : 350.0";
+
+/* Class = "UILabel"; text = "付款方式"; ObjectID = "fGA-6I-ucd"; */
+"fGA-6I-ucd.text" = "付款方式";
+
+/* Class = "UILabel"; text = "您没有任何订单"; ObjectID = "fIr-2u-Vv4"; */
+"fIr-2u-Vv4.text" = "您没有任何订单";
+
+/* Class = "UILabel"; text = "男"; ObjectID = "fRL-7n-qua"; */
+"fRL-7n-qua.text" = "男";
+
+/* Class = "UILabel"; text = "余额 : 1250.0"; ObjectID = "fdb-v6-0Ma"; */
+"fdb-v6-0Ma.text" = "余额 : 1250.0";
+
+/* Class = "UILabel"; text = "后四位:"; ObjectID = "g7i-nD-2NI"; */
+"g7i-nD-2NI.text" = "后四位:";
+
+/* Class = "UILabel"; text = "交易密码"; ObjectID = "gPy-Mg-Zre"; */
+"gPy-Mg-Zre.text" = "交易密码";
+
+/* Class = "UILabel"; text = "π积分 : 3500"; ObjectID = "gfB-R6-l3t"; */
+"gfB-R6-l3t.text" = "π积分 : 3500";
+
+/* Class = "UILabel"; text = "充值"; ObjectID = "gfm-0w-Cyk"; */
+"gfm-0w-Cyk.text" = "充值";
+
+/* Class = "UILabel"; text = "pai address fdjfksdjfksdfjksdfj jdkfjsdkfjsdkfj kjdskfjskdfjksdfj jkdsjfksdf"; ObjectID = "gfz-2W-V8B"; */
+"gfz-2W-V8B.text" = "pai address fdjfksdjfksdfjksdfj jdkfjsdkfjsdkfj kjdskfjskdfjksdfj jkdsjfksdf";
+
+/* Class = "UITextField"; placeholder = "输入商品库存，0为无限制"; ObjectID = "gh1-9G-f5A"; */
+"gh1-9G-f5A.placeholder" = "输入商品库存，0为无限制";
+
+/* Class = "UILabel"; text = "验证码"; ObjectID = "h18-hQ-D7d"; */
+"h18-hQ-D7d.text" = "验证码";
+
+/* Class = "UILabel"; text = "π"; ObjectID = "h5E-eo-ihB"; */
+"h5E-eo-ihB.text" = "π";
+
+/* Class = "UILabel"; text = "合计："; ObjectID = "hCI-kJ-uxZ"; */
+"hCI-kJ-uxZ.text" = "合计：";
+
+/* Class = "UILabel"; text = "余额 : 1250.0"; ObjectID = "hdF-5m-QIT"; */
+"hdF-5m-QIT.text" = "余额 : 1250.0";
+
+/* Class = "UILabel"; text = "用户信息"; ObjectID = "hrh-NM-ox9"; */
+"hrh-NM-ox9.text" = "用户信息";
+
+/* Class = "UITextField"; placeholder = "请输入充值余额"; ObjectID = "htv-49-M1V"; */
+"htv-49-M1V.placeholder" = "请输入充值余额";
+
+/* Class = "UITextField"; text = "0"; ObjectID = "htv-49-M1V"; */
+"htv-49-M1V.text" = "0";
+
+/* Class = "UILabel"; text = "address fjkfjsdkfjksdfjksd dsfjksdfjk  sfjkdfjkdsfjk dsfjksd jksdfksdfjksdjfks jk"; ObjectID = "iDH-0b-f8f"; */
+"iDH-0b-f8f.text" = "address fjkfjsdkfjksdfjksd dsfjksdfjk  sfjkdfjkdsfjk dsfjksd jksdfksdfjksdjfks jk";
+
+/* Class = "UILabel"; text = "收货人 :"; ObjectID = "iah-62-w81"; */
+"iah-62-w81.text" = "收货人 :";
+
+/* Class = "UILabel"; text = "交易密码"; ObjectID = "ib6-Q2-nln"; */
+"ib6-Q2-nln.text" = "交易密码";
+
+/* Class = "UIButton"; normalTitle = "100π"; ObjectID = "icN-hv-xPm"; */
+"icN-hv-xPm.normalTitle" = "100π";
+
+/* Class = "UITextField"; placeholder = "请输入充值余额"; ObjectID = "igA-mh-q9U"; */
+"igA-mh-q9U.placeholder" = "请输入充值余额";
+
+/* Class = "UITextField"; text = "0"; ObjectID = "igA-mh-q9U"; */
+"igA-mh-q9U.text" = "0";
+
+/* Class = "UILabel"; text = "联系电话"; ObjectID = "iga-qh-rGE"; */
+"iga-qh-rGE.text" = "联系电话";
+
+/* Class = "UILabel"; text = "客服中心"; ObjectID = "isI-Ms-s89"; */
+"isI-Ms-s89.text" = "客服中心";
+
+/* Class = "UILabel"; text = "女"; ObjectID = "j3C-95-rQR"; */
+"j3C-95-rQR.text" = "女";
+
+/* Class = "UILabel"; text = "200"; ObjectID = "jHo-N2-ld7"; */
+"jHo-N2-ld7.text" = "200";
+
+/* Class = "UILabel"; text = "营业时间"; ObjectID = "jZC-4B-Dsr"; */
+"jZC-4B-Dsr.text" = "营业时间";
+
+/* Class = "UILabel"; text = "店铺管理"; ObjectID = "jsn-ko-Ba1"; */
+"jsn-ko-Ba1.text" = "店铺管理";
+
+/* Class = "UITextField"; placeholder = "请输入门店名"; ObjectID = "jv2-Dd-Av7"; */
+"jv2-Dd-Av7.placeholder" = "请输入门店名";
+
+/* Class = "UILabel"; text = "pai address fjkdfjsdkfjsk ksdjfksdfjksdfjks jkfdjk"; ObjectID = "kQ4-fn-bFp"; */
+"kQ4-fn-bFp.text" = "pai address fjkdfjsdkfjsk ksdjfksdfjksdfjks jkfdjk";
+
+/* Class = "UILabel"; text = "¥40.00"; ObjectID = "kxx-bF-1js"; */
+"kxx-bF-1js.text" = "¥40.00";
+
+/* Class = "UILabel"; text = "收货人 :"; ObjectID = "lR3-mC-ETK"; */
+"lR3-mC-ETK.text" = "收货人 :";
+
+/* Class = "UILabel"; text = "工商营业执照"; ObjectID = "lhk-Iv-t1V"; */
+"lhk-Iv-t1V.text" = "工商营业执照";
+
+/* Class = "UIButton"; normalTitle = "100π"; ObjectID = "liR-hi-mTz"; */
+"liR-hi-mTz.normalTitle" = "100π";
+
+/* Class = "UILabel"; text = "交易密码"; ObjectID = "lv5-Er-ikB"; */
+"lv5-Er-ikB.text" = "交易密码";
+
+/* Class = "UILabel"; text = "充值账户:"; ObjectID = "m9H-hc-bXX"; */
+"m9H-hc-bXX.text" = "充值账户:";
+
+/* Class = "UILabel"; text = "¥10.00"; ObjectID = "mH1-c8-SY9"; */
+"mH1-c8-SY9.text" = "¥10.00";
+
+/* Class = "UILabel"; text = "介绍"; ObjectID = "mHD-PW-LLH"; */
+"mHD-PW-LLH.text" = "介绍";
+
+/* Class = "UISegmentedControl"; maQ-dv-S5m.segmentTitles[0] = "全部"; ObjectID = "maQ-dv-S5m"; */
+"maQ-dv-S5m.segmentTitles[0]" = "全部";
+
+/* Class = "UISegmentedControl"; maQ-dv-S5m.segmentTitles[1] = "待发货"; ObjectID = "maQ-dv-S5m"; */
+"maQ-dv-S5m.segmentTitles[1]" = "待发货";
+
+/* Class = "UISegmentedControl"; maQ-dv-S5m.segmentTitles[2] = "已发货"; ObjectID = "maQ-dv-S5m"; */
+"maQ-dv-S5m.segmentTitles[2]" = "已发货";
+
+/* Class = "UISegmentedControl"; maQ-dv-S5m.segmentTitles[3] = "已完成"; ObjectID = "maQ-dv-S5m"; */
+"maQ-dv-S5m.segmentTitles[3]" = "已完成";
+
+/* Class = "UILabel"; text = "确认密码"; ObjectID = "maV-O2-hNJ"; */
+"maV-O2-hNJ.text" = "确认密码";
+
+/* Class = "UILabel"; text = "商品图片，最多6张"; ObjectID = "nct-rI-DxI"; */
+"nct-rI-DxI.text" = "商品图片，最多6张";
+
+/* Class = "UILabel"; text = "您没有任何关注店铺"; ObjectID = "oBj-xd-0bC"; */
+"oBj-xd-0bC.text" = "您没有任何关注店铺";
+
+/* Class = "UIButton"; normalTitle = "确认提现"; ObjectID = "oNW-W8-gl6"; */
+"oNW-W8-gl6.normalTitle" = "确认提现";
+
+/* Class = "UITextField"; placeholder = "输入价格"; ObjectID = "oXP-cv-64G"; */
+"oXP-cv-64G.placeholder" = "输入价格";
+
+/* Class = "UIButton"; normalTitle = "确认"; ObjectID = "oib-yE-TBZ"; */
+"oib-yE-TBZ.normalTitle" = "确认";
+
+/* Class = "UILabel"; text = "介绍 ："; ObjectID = "oti-Uq-8an"; */
+"oti-Uq-8an.text" = "介绍 ：";
+
+/* Class = "UILabel"; text = "¥10.00"; ObjectID = "p7d-PS-HZ3"; */
+"p7d-PS-HZ3.text" = "¥10.00";
+
+/* Class = "UILabel"; text = "所有订单"; ObjectID = "pCZ-wJ-fza"; */
+"pCZ-wJ-fza.text" = "所有订单";
+
+/* Class = "UITextField"; placeholder = "π账号手机后四位"; ObjectID = "pcZ-hU-3Ki"; */
+"pcZ-hU-3Ki.placeholder" = "π账号手机后四位";
+
+/* Class = "UITextField"; placeholder = "请输入交货号码"; ObjectID = "prp-cO-f6f"; */
+"prp-cO-f6f.placeholder" = "请输入交货号码";
+
+/* Class = "UILabel"; text = "  π积分 : 3500"; ObjectID = "q48-V5-sCX"; */
+"q48-V5-sCX.text" = "  π积分 : 3500";
+
+/* Class = "UILabel"; text = "交易密码"; ObjectID = "qCr-io-fMD"; */
+"qCr-io-fMD.text" = "交易密码";
+
+/* Class = "UIButton"; normalTitle = "交易密码修改"; ObjectID = "qPJ-sL-PGo"; */
+"qPJ-sL-PGo.normalTitle" = "交易密码修改";
+
+/* Class = "UILabel"; text = "3243"; ObjectID = "qc0-BW-Moa"; */
+"qc0-BW-Moa.text" = "3243";
+
+/* Class = "UISegmentedControl"; qch-Pc-sup.segmentTitles[0] = "已返还"; ObjectID = "qch-Pc-sup"; */
+"qch-Pc-sup.segmentTitles[0]" = "已返还";
+
+/* Class = "UISegmentedControl"; qch-Pc-sup.segmentTitles[1] = "未返还"; ObjectID = "qch-Pc-sup"; */
+"qch-Pc-sup.segmentTitles[1]" = "未返还";
+
+/* Class = "UITextField"; placeholder = "必填，输入联系电话"; ObjectID = "qna-5V-d0o"; */
+"qna-5V-d0o.placeholder" = "必填，输入联系电话";
+
+/* Class = "UILabel"; text = "提现记录"; ObjectID = "qpq-MA-oz8"; */
+"qpq-MA-oz8.text" = "提现记录";
+
+/* Class = "UILabel"; text = "你想知道什么?"; ObjectID = "qwR-8X-Z0u"; */
+"qwR-8X-Z0u.text" = "你想知道什么?";
+
+/* Class = "UILabel"; text = "1.0"; ObjectID = "rFz-t5-Zo2"; */
+"rFz-t5-Zo2.text" = "1.0";
+
+/* Class = "UILabel"; text = "手机后四位"; ObjectID = "rly-8z-gm7"; */
+"rly-8z-gm7.text" = "手机后四位";
+
+/* Class = "UILabel"; text = "您没有任何聊天记录"; ObjectID = "rs9-Lf-fLF"; */
+"rs9-Lf-fLF.text" = "您没有任何聊天记录";
+
+/* Class = "UILabel"; text = "Discovery"; ObjectID = "rvD-Hd-216"; */
+"rvD-Hd-216.text" = "Discovery";
+
+/* Class = "UILabel"; text = "π : 350.0"; ObjectID = "rvt-2p-Gyw"; */
+"rvt-2p-Gyw.text" = "π : 350.0";
+
+/* Class = "UITextField"; placeholder = "请输入确认密码"; ObjectID = "ryX-3h-nqr"; */
+"ryX-3h-nqr.placeholder" = "请输入确认密码";
+
+/* Class = "UILabel"; text = "π价格"; ObjectID = "s6D-DE-jcA"; */
+"s6D-DE-jcA.text" = "π价格";
+
+/* Class = "UILabel"; text = "购物车"; ObjectID = "sRG-yq-c1G"; */
+"sRG-yq-c1G.text" = "购物车";
+
+/* Class = "UIButton"; normalTitle = "250π"; ObjectID = "sSd-Zj-gtW"; */
+"sSd-Zj-gtW.normalTitle" = "250π";
+
+/* Class = "UILabel"; text = "余额 : 1250.0"; ObjectID = "sVj-Hb-ibs"; */
+"sVj-Hb-ibs.text" = "余额 : 1250.0";
+
+/* Class = "UILabel"; text = "合计："; ObjectID = "sad-qq-X3F"; */
+"sad-qq-X3F.text" = "合计：";
+
+/* Class = "UILabel"; text = "商品标题"; ObjectID = "seN-Ti-kyu"; */
+"seN-Ti-kyu.text" = "商品标题";
+
+/* Class = "UILabel"; text = "π用户名"; ObjectID = "siV-0w-zvT"; */
+"siV-0w-zvT.text" = "π用户名";
+
+/* Class = "UILabel"; text = "π积分:"; ObjectID = "sye-m6-vRg"; */
+"sye-m6-vRg.text" = "π积分:";
+
+/* Class = "UILabel"; text = "地址"; ObjectID = "tBb-lv-UCp"; */
+"tBb-lv-UCp.text" = "地址";
+
+/* Class = "UILabel"; text = "我的订单"; ObjectID = "tLz-ZP-0GD"; */
+"tLz-ZP-0GD.text" = "我的订单";
+
+/* Class = "UISegmentedControl"; tn3-Xx-Qwc.segmentTitles[0] = "全部"; ObjectID = "tn3-Xx-Qwc"; */
+"tn3-Xx-Qwc.segmentTitles[0]" = "全部";
+
+/* Class = "UISegmentedControl"; tn3-Xx-Qwc.segmentTitles[1] = "待发货"; ObjectID = "tn3-Xx-Qwc"; */
+"tn3-Xx-Qwc.segmentTitles[1]" = "待发货";
+
+/* Class = "UISegmentedControl"; tn3-Xx-Qwc.segmentTitles[2] = "已发货"; ObjectID = "tn3-Xx-Qwc"; */
+"tn3-Xx-Qwc.segmentTitles[2]" = "已发货";
+
+/* Class = "UISegmentedControl"; tn3-Xx-Qwc.segmentTitles[3] = "已完成"; ObjectID = "tn3-Xx-Qwc"; */
+"tn3-Xx-Qwc.segmentTitles[3]" = "已完成";
+
+/* Class = "UILabel"; text = "17152503872"; ObjectID = "tnu-bZ-b9h"; */
+"tnu-bZ-b9h.text" = "17152503872";
+
+/* Class = "UIButton"; normalTitle = "CNY"; ObjectID = "u4g-xx-A60"; */
+"u4g-xx-A60.normalTitle" = "CNY";
+
+/* Class = "UILabel"; text = "用户名称 :"; ObjectID = "u8N-Ea-8eb"; */
+"u8N-Ea-8eb.text" = "用户名称 :";
+
+/* Class = "UIButton"; normalTitle = "交易密码设置"; ObjectID = "uFj-eN-48z"; */
+"uFj-eN-48z.normalTitle" = "交易密码设置";
+
+/* Class = "UILabel"; text = "point value"; ObjectID = "uGk-pi-WZX"; */
+"uGk-pi-WZX.text" = "point value";
+
+/* Class = "UILabel"; text = "返还期数"; ObjectID = "uVT-yX-alZ"; */
+"uVT-yX-alZ.text" = "返还期数";
+
+/* Class = "UILabel"; text = "我的昵称"; ObjectID = "uYy-GJ-SLL"; */
+"uYy-GJ-SLL.text" = "我的昵称";
+
+/* Class = "UILabel"; text = "店铺介绍（选填）"; ObjectID = "ucP-I9-bMw"; */
+"ucP-I9-bMw.text" = "店铺介绍（选填）";
+
+/* Class = "UIButton"; normalTitle = "π"; ObjectID = "ukp-CY-QKT"; */
+"ukp-CY-QKT.normalTitle" = "π";
+
+/* Class = "UILabel"; text = "手机号"; ObjectID = "uzR-xY-Of1"; */
+"uzR-xY-Of1.text" = "手机号";
+
+/* Class = "UILabel"; text = "转换数量:"; ObjectID = "v4h-GC-jTX"; */
+"v4h-GC-jTX.text" = "转换数量:";
+
+/* Class = "UILabel"; text = "账单明细\n"; ObjectID = "v9s-nm-xYa"; */
+"v9s-nm-xYa.text" = "账单明细\n";
+
+/* Class = "UILabel"; text = "17152503872"; ObjectID = "vCE-gZ-PEu"; */
+"vCE-gZ-PEu.text" = "17152503872";
+
+/* Class = "UILabel"; text = "店铺归属"; ObjectID = "vHh-b1-So0"; */
+"vHh-b1-So0.text" = "店铺归属";
+
+/* Class = "UIButton"; normalTitle = "确认位置"; ObjectID = "vX3-wK-g5k"; */
+"vX3-wK-g5k.normalTitle" = "确认位置";
+
+/* Class = "UILabel"; text = "π积分"; ObjectID = "wFe-eN-7KK"; */
+"wFe-eN-7KK.text" = "π积分";
+
+/* Class = "UILabel"; text = "您没有任何商品"; ObjectID = "wLU-Lt-rE5"; */
+"wLU-Lt-rE5.text" = "您没有任何商品";
+
+/* Class = "UILabel"; text = "联系电话 :"; ObjectID = "wU2-Jm-tzg"; */
+"wU2-Jm-tzg.text" = "联系电话 :";
+
+/* Class = "UIBarButtonItem"; title = "Crop"; ObjectID = "wad-rL-Rf8"; */
+"wad-rL-Rf8.title" = "Crop";
+
+/* Class = "UILabel"; text = "分享派世界"; ObjectID = "weJ-pd-VtZ"; */
+"weJ-pd-VtZ.text" = "分享派世界";
+
+/* Class = "UIButton"; normalTitle = "确认转换"; ObjectID = "wfX-MV-XLz"; */
+"wfX-MV-XLz.normalTitle" = "确认转换";
+
+/* Class = "UILabel"; text = "提π数量"; ObjectID = "x0u-Wf-1av"; */
+"x0u-Wf-1av.text" = "提π数量";
+
+/* Class = "UILabel"; text = "当前密码"; ObjectID = "xgH-Pf-qVo"; */
+"xgH-Pf-qVo.text" = "当前密码";
+
+/* Class = "UILabel"; text = "等待"; ObjectID = "xz8-Uc-jhj"; */
+"xz8-Uc-jhj.text" = "等待";
+
+/* Class = "UITextField"; placeholder = "请输入交易密码"; ObjectID = "yDw-MY-Hpj"; */
+"yDw-MY-Hpj.placeholder" = "请输入交易密码";
+
+/* Class = "UITextField"; placeholder = "请输入交易密码"; ObjectID = "ySH-hc-2vy"; */
+"ySH-hc-2vy.placeholder" = "请输入交易密码";
+
+/* Class = "UILabel"; text = "店铺升级"; ObjectID = "ydP-2M-Mxe"; */
+"ydP-2M-Mxe.text" = "店铺升级";
+
+/* Class = "UIButton"; normalTitle = "π"; ObjectID = "ydo-Pl-6pi"; */
+"ydo-Pl-6pi.normalTitle" = "π";
+
+/* Class = "UILabel"; text = "关注店铺"; ObjectID = "ynw-PD-Vi3"; */
+"ynw-PD-Vi3.text" = "关注店铺";
+
+/* Class = "UILabel"; text = "π : 350.0"; ObjectID = "yrm-sI-83J"; */
+"yrm-sI-83J.text" = "π : 350.0";
+
+/* Class = "UIButton"; normalTitle = "50π"; ObjectID = "yyF-cQ-mU4"; */
+"yyF-cQ-mU4.normalTitle" = "50π";
+
+/* Class = "UILabel"; text = "¥10.00"; ObjectID = "z2D-Py-ZS9"; */
+"z2D-Py-ZS9.text" = "¥10.00";
+
+/* Class = "UILabel"; text = "π : 350.0"; ObjectID = "z2n-fZ-ti9"; */
+"z2n-fZ-ti9.text" = "π : 350.0";
+
+/* Class = "UIButton"; normalTitle = "CNY"; ObjectID = "z8Q-ie-7Uy"; */
+"z8Q-ie-7Uy.normalTitle" = "CNY";
+
+/* Class = "UILabel"; text = "  π积分 : 3500"; ObjectID = "z8g-tU-ed9"; */
+"z8g-tU-ed9.text" = "  π积分 : 3500";
+
+/* Class = "UILabel"; text = "余额 : 1250.0"; ObjectID = "zTa-M9-PtY"; */
+"zTa-M9-PtY.text" = "余额 : 1250.0";
+
+/* Class = "UILabel"; text = "联系人"; ObjectID = "zf8-Hq-gJn"; */
+"zf8-Hq-gJn.text" = "联系人";
+
+/* Class = "UILabel"; text = "通知声音"; ObjectID = "zpp-VV-oFJ"; */
+"zpp-VV-oFJ.text" = "通知声音";
+
+/* Class = "UILabel"; text = "有待"; ObjectID = "zri-YG-RRQ"; */
+"zri-YG-RRQ.text" = "有待";
